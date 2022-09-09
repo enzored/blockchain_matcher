@@ -1,0 +1,8 @@
+asgiref==3.5.2
+Django==3.2.15
+numpy==1.21.6
+numpy-ml==0.1.2
+pytz==2022.2.1
+scipy==1.9.1
+sqlparse==0.4.2
+typing-extensions==4.3.0
